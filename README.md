@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @AnthonyPrst. I'm happy to see you ! 
-  I'm a engineer in wood construction and I think we can do more with the programmation in our job. 
+  I'm a engineer in wood construction and I think we can do more with the programmation in our jobs. 
   Python is the future !
 - 👀 I’m interested in programmation and IA and I do a lot of ski ! (sorry, it's not a meeting app ?) 
 - 🌱 I’m currently learning Python and JS
